@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coffandro
-- 👀 I’m interested in Robots, Ai, Keyboards, Plants and Modding
-- 🌱 I’m currently learning Python, and already know how to write autohotkey scripts
+- 👀 I’m interested in electronics, Keyboards, and Modding
+- 🌱 I can write autohotkey scripts, python programs and html, css and js websites
 - 📫 You can reach me via macrosedk@gmail.com, if you dare
 
 <!---
