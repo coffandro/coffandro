@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coffandro
-- 👀 I’m interested in electronics, Keyboards, and Modding
-- 🌱 I can write autohotkey scripts, python programs and html, css and js websites
+- 👀 I’m interested in electronics, modding and game design
+- 🌱 I write scripts, websites and games
 - 📫 You can reach me via macrosedk@gmail.com, if you dare
 
 <!---
