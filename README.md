@@ -1,4 +1,5 @@
-Heya, my name is Cornelius and I develop games, websites, electronics and scripts to tie it all together.
+Heya, my name is Cornelius.
+I develop games, websites, electronics and scripts to tie it all together.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffandro)](https://github.com/anuraghazra/github-readme-stats)
 
