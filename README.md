@@ -1,4 +1,4 @@
-Heya, my name is Cornelius.
+Heya, my name is Frida.
 I develop games, websites, electronics and scripts to tie it all together.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffandro)](https://github.com/anuraghazra/github-readme-stats)
